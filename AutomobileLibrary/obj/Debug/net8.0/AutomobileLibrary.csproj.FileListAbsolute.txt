@@ -1,0 +1,14 @@
+F:\Spring2024\PRN221\Project\AutomobileSolution\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.deps.json
+F:\Spring2024\PRN221\Project\AutomobileSolution\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.runtimeconfig.json
+F:\Spring2024\PRN221\Project\AutomobileSolution\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.dll
+F:\Spring2024\PRN221\Project\AutomobileSolution\AutomobileLibrary\bin\Debug\net8.0\AutomobileLibrary.pdb
+F:\Spring2024\PRN221\Project\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.csproj.AssemblyReference.cache
+F:\Spring2024\PRN221\Project\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Spring2024\PRN221\Project\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.AssemblyInfoInputs.cache
+F:\Spring2024\PRN221\Project\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.AssemblyInfo.cs
+F:\Spring2024\PRN221\Project\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+F:\Spring2024\PRN221\Project\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.dll
+F:\Spring2024\PRN221\Project\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\refint\AutomobileLibrary.dll
+F:\Spring2024\PRN221\Project\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.pdb
+F:\Spring2024\PRN221\Project\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\AutomobileLibrary.genruntimeconfig.cache
+F:\Spring2024\PRN221\Project\AutomobileSolution\AutomobileLibrary\obj\Debug\net8.0\ref\AutomobileLibrary.dll
